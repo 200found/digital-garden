@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/normal-test-index/","tags":["gardenEntry"],"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/normal-test-index/","tags":["gardenEntry"]}
 ---
 
 # public projects
