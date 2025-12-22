@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/blades-wiki/blades-index/","dgShowLocalGraph":true}
 ---
 
-haven't fully decided on an index format, so for now, here is a list of useful pages.
+haven't fully decided on an index format, so for now, here is a list of useful pages. at the bottom of the page should be a navigable graph of all the links to the various pages
 
 note that i make pages rapidly and am missing practically everything. if you would like me to add a specific page or make changes about a specific page, please text or email me.
 
@@ -15,7 +15,8 @@ no clue if i should be using tags for this wiki. probably not in order to keep i
 - [[blades wiki/brax\|brax]]
 - [[blades wiki/bae\|bae]]
 - [[blades wiki/jinx\|jinx]]
-
+# heists?
+- 12/22/2025 - [[fuck the hive and them bees\|fuck the hive and them bees]]
 # places
 - 
 # people and factions
@@ -25,3 +26,6 @@ no clue if i should be using tags for this wiki. probably not in order to keep i
 - 
 ## frenemies
 - [[blades wiki/railjack\|train wankers]]
+# other resources
+- blades in the dark character manager and generator: https://arazni.github.io/blades-in-the-sheets/
+- hamete virtual dice server: https://dicelog.com/dice
