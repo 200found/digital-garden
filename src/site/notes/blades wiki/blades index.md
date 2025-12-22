@@ -3,12 +3,12 @@
 ---
 
 ## characters
-- [[blades wiki/satin\|satin]]
+- [[blades wiki/bae\|bae]]
 - [[blades wiki/bex\|bex]]
 - [[blades wiki/pine\|pine]]
 - [[blades wiki/bones\|bones]]
+- [[blades wiki/satin\|satin]]
 - [[blades wiki/brax\|brax]]
-- [[blades wiki/bae\|bae]]
 - [[blades wiki/jinx\|jinx]]
 ## heists?
 - 12/22/2025 - [[fuck the hive and them bees\|fuck the hive and them bees]]
