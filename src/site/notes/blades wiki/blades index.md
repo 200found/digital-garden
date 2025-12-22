@@ -1,4 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/blades-index/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/blades-index/","tags":["gardenEntry"],"dgShowLocalGraph":true}
 ---
 
+test
