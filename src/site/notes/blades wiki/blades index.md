@@ -11,7 +11,7 @@
 - [[blades wiki/brax\|brax]]
 - [[blades wiki/jinx\|jinx]]
 ## heists?
-- 12/22/2025 - [[fuck the hive and them bees\|fuck the hive and them bees]]
+- 12/22/2025 - [[blades wiki/fuck the hive and them bees\|fuck the hive and them bees]]
 ## places
 - 
 ## people and factions
