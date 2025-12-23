@@ -16,11 +16,12 @@
 - 
 ## people and factions
 ### allies
+- [[blades wiki/tweed\|tweed]]
 - 
 ### enemies
-- 
+- [[blades wiki/wraiths\|wraiths]]
 ### frenemies
-- [[blades wiki/railjack\|train wankers]]
+- [[blades wiki/railjacks\|train wankers]]
 ## other resources
 - blades in the dark character manager and generator: https://arazni.github.io/blades-in-the-sheets/
 - hamete virtual dice server: https://dicelog.com/dice
