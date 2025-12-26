@@ -14,9 +14,6 @@
 { .block-language-dataview}
 ## heists
 - 12/22/2025 - [[blades wiki/fuck the hive and them bees\|fuck the hive and them bees]]
-- [[blades wiki/fuck the hive and them bees\|fuck the hive and them bees]]
-
-{ .block-language-dataview}
 ## places
 - [[blades wiki/red lamp brothel\|red lamp brothel]]
 - [[blades wiki/the pearl divers\|the pearl divers]]
@@ -26,6 +23,8 @@
 
 { .block-language-dataview}
 ## people and factions
+### important people
+
 ### allies
 - [[blades wiki/tweed\|tweed]]
 - 
