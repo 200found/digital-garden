@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/iruvia/"}
+{"dg-publish":true,"permalink":"/blades-wiki/iruvia/","tags":["region"]}
 ---
 

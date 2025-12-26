@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/scarby-s-coffee/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/scarby-s-coffee/","tags":["place"],"dgShowLocalGraph":true}
 ---
 
 - first home base

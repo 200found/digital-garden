@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/pine/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/pine/","tags":["character"],"dgShowLocalGraph":true}
 ---
 
 - full name is martin pinus khoen
-- 
+- Locksmith apprentice with [[blades wiki/frake\|frake]], until their estrangement.
 - party sneak
 - complicated relationship with his parents
+- acquainted with [[blades wiki/telda\|telda]], a beggar
+- acquainted with [[blades wiki/darmot\|darmot]], a [[blades wiki/bluecoats\|bluecoat]]
+- 
 - love/hate relationship with [[blades wiki/bex\|bex]]
 
 
@@ -18,10 +21,10 @@
 - father is [[blades wiki/pinch\|pinch]], from the [[blades wiki/dagger isles\|dagger isles]]. whereabouts unknown
 - mother is [[blades wiki/frake\|frake]], from [[blades wiki/iruvia\|iruvia]]; estranged because she 
 - tries to avoid violence
-- met [[rosyln\|rosyln]] at the red lamp, bonded over shared masochism
-- met [[petra\|petra]] at school
+- met [[blades wiki/rosyln\|rosyln]] at the [[blades wiki/red lamp brothel\|red lamp brothel]] in [[blades wiki/silkshore\|silkshore]], bonded over shared masochism
+- met [[blades wiki/petra\|petra]] at school
 - attempts to communicate with ghosts (and enters ghost field) by making ridiculous gestures or making fake ghost sounds. this is how he became haunted
-- good dancer, unlike [[lord scurlock\|spurlock]]
+- good dancer, unlike [[blades wiki/lord scurlock\|spurlock]]
 - has a small burn on his hand from [[blades wiki/the gatemaster\|the gatemaster]]
 - [[blades wiki/bex\|bex]] is a frenemy with benefits
 
@@ -36,9 +39,9 @@ reconcile with mother over father; maybe go on trip to find him
 done: reconcile with/find father 9/8
 - stole teacup and leaves from [[blades wiki/frog\|frog]] (psychic) with a spirit link to him
 - [[blades wiki/satin\|satin]] read the leaves and got a vision of him relaxing in a jungle area
-- recent library research attempt through [[roslyn\|roslyn]] revealed that the [[blades wiki/dagger isles\|dagger isles]] have jungles
+- recent library research attempt through [[blades wiki/roslyn\|roslyn]] revealed that the [[blades wiki/dagger isles\|dagger isles]] have jungles
 - studied up on the [[blades wiki/dagger isles\|dagger isles]]
-- met a crabby old dude at the dagger isles consolate, [[aurini morriston\|aurini morriston]], agreed to help
+- met a crabby old dude at the dagger isles consolate, [[blades wiki/aurini morriston\|aurini morriston]], agreed to help
 - has contact now
 - investigate my hole 
 

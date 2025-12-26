@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/dire-ants/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/dire-ants/","tags":["faction"],"dgShowLocalGraph":true}
 ---
 
 - our kid thieves

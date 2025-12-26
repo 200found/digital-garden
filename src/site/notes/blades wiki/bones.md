@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/bones/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/bones/","tags":["character"],"dgShowLocalGraph":true}
 ---
 
 - with the [[blades wiki/gondoliers\|gondoliers]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/railjacks/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/railjacks/","tags":["faction"],"dgShowLocalGraph":true}
 ---
 
 - train masturbators

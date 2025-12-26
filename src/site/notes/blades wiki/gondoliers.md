@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/gondoliers/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/gondoliers/","tags":["faction"],"dgShowLocalGraph":true}
 ---
 

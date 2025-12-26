@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/bluecoats/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/bluecoats/","tags":["faction"],"dgShowLocalGraph":true}
 ---
 

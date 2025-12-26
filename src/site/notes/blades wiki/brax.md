@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/brax/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/brax/","tags":["character"],"dgShowLocalGraph":true}
 ---
 
 - party face
