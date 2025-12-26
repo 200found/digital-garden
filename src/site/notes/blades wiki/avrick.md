@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/avrick/"}
+{"dg-publish":true,"permalink":"/blades-wiki/avrick/","dgShowLocalGraph":true}
 ---
 

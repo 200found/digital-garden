@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/pinch/"}
+{"dg-publish":true,"permalink":"/blades-wiki/pinch/","dgShowLocalGraph":true}
 ---
 
 - [[blades wiki/pine\|pine's]] father.

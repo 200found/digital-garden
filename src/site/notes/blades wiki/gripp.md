@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/gripp/"}
+{"dg-publish":true,"permalink":"/blades-wiki/gripp/","dgShowLocalGraph":true}
 ---
 

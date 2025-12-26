@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/darmot/"}
+{"dg-publish":true,"permalink":"/blades-wiki/darmot/","dgShowLocalGraph":true}
 ---
 

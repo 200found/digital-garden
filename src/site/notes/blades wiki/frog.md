@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/frog/"}
+{"dg-publish":true,"permalink":"/blades-wiki/frog/","dgShowLocalGraph":true}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/fuck-the-hive-and-them-bees/","tags":["heist"]}
+{"dg-publish":true,"permalink":"/blades-wiki/fuck-the-hive-and-them-bees/","tags":["heist"],"dgShowLocalGraph":true}
 ---
 
 working on establishing multiple bases

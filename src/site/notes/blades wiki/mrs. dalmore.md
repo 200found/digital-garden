@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/mrs-dalmore/"}
+{"dg-publish":true,"permalink":"/blades-wiki/mrs-dalmore/","dgShowLocalGraph":true}
 ---
 

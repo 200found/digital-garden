@@ -10,10 +10,15 @@
 - [[blades wiki/satin\|satin]]
 - [[blades wiki/brax\|brax]]
 - [[blades wiki/jinx\|jinx]]
-## heists?
+## heists
 - 12/22/2025 - [[blades wiki/fuck the hive and them bees\|fuck the hive and them bees]]
+```query
+tag:#heist
+```
 ## places
-- 
+```query
+tag:#place
+```
 ## people and factions
 ### allies
 - [[blades wiki/tweed\|tweed]]

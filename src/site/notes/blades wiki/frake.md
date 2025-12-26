@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/frake/"}
+{"dg-publish":true,"permalink":"/blades-wiki/frake/","dgShowLocalGraph":true}
 ---
 
 - [[blades wiki/pine\|pine's]] mother

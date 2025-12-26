@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/pirin/"}
+{"dg-publish":true,"permalink":"/blades-wiki/pirin/","dgShowLocalGraph":true}
 ---
 
