@@ -14,7 +14,7 @@
 { .block-language-dataview}
 ## heists
 - 12/22/2025 - [[blades wiki/fuck the hive and them bees\|fuck the hive and them bees]]
-- 
+- 1/4/2026 - [[blades wiki/demonic ninja turtle\|demonic ninja turtle]]
 ## places
 - [[blades wiki/the pearl divers\|the pearl divers]]
 - [[blades wiki/spicy horseshoe\|spicy horseshoe]]
