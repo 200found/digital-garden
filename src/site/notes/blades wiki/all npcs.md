@@ -19,6 +19,7 @@
 - [[blades wiki/goats\|goats]]
 - [[blades wiki/grace\|grace]]
 - [[blades wiki/gripp\|gripp]]
+- [[blades wiki/karth\|karth]]
 - [[blades wiki/klyra\|klyra]]
 - [[blades wiki/larose\|larose]]
 - [[blades wiki/lord scurlock\|lord scurlock]]

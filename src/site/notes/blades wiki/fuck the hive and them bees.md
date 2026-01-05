@@ -31,7 +31,7 @@ set up like a planning area
 set up rumors
 seen coming in and out
 sprung trap fuckup
-leaving on canal, but karth finds us in canal
+leaving on canal, but [[blades wiki/karth\|karth]] finds us in canal
 boat to boat combat
 fled
 boat sunk
