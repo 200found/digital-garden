@@ -25,7 +25,18 @@
 - met [[blades wiki/petra\|petra]] at school
 - attempts to communicate with ghosts (and enters ghost field) by making ridiculous gestures or making fake ghost sounds. this is how he became haunted
 - good dancer, unlike [[blades wiki/lord scurlock\|spurlock]]
-- has a small burn on his hand from [[blades wiki/the gatemaster\|the gatemaster]]
+
+- acolyte of [[blades wiki/the guardian of the gate\|the guardian of the gate]]
+	- has a small burn on his hand from [[blades wiki/the guardian of the gate\|the guardian of the gate]]. bex calls it a "handussy"
+	- 2/6 clock for acolyte
+	- every time he uses his hole, adds tick to clock to subconsiously become indoctrination
+	- make it funny, pretend it was always the case lol
+	- devils bargain for finding guardian energy
+	- maybe pine found religion on his trip
+	- maybe new vice to worship
+	- need to work out what that means
+	- able to make it to shrine
+
 - [[blades wiki/bex\|bex]] is a frenemy with benefits
 
 

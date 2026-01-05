@@ -10,7 +10,7 @@ trap
 
 find location for fake base because [[blades wiki/the hive\|the hive]] is at war
 they narrowed down to barrowcleft, so that where 
-bae went to talk to [[blades wiki/august\|august]]
+[[blades wiki/bae\|bae]] went to talk to [[blades wiki/august\|august]]
 let me get my thinking cup
 
 some overhang canal
@@ -32,7 +32,7 @@ boat sunk
 bones levitation potion/drift oil
 karth orders to look at base
 jinx used rats to set trap
-frost the ghost helped
+[[blades wiki/frost\|frost]] the ghost helped
 frost ate whoever it could
 
 

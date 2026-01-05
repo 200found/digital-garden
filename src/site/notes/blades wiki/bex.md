@@ -3,6 +3,7 @@
 ---
 
 - [[blades wiki/pine\|pine]] is a frenemy with benefits aka a hatefuck hookup.
+- calls pine's hand hole a handussy
 - [[blades wiki/avrick\|avrick]], his vice purveyor in [[blades wiki/barrowcleft\|barrowcleft]], sells him [[blades wiki/pirin\|fake drugs]].
 - was haunted by ghosts as a kid
 - has ties to the underworld.
