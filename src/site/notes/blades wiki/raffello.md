@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/raffello/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/raffello/","tags":["npc"],"dgShowLocalGraph":true}
 ---
 
 last seen with [[blades wiki/fitz\|fitz]]

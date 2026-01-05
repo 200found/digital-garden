@@ -21,7 +21,7 @@
 - father is [[blades wiki/pinch\|pinch]], from the [[blades wiki/dagger isles\|dagger isles]]. whereabouts unknown
 - mother is [[blades wiki/frake\|frake]], from [[blades wiki/iruvia\|iruvia]]; estranged because she 
 - tries to avoid violence
-- met [[blades wiki/rosyln\|rosyln]] at the [[blades wiki/red lamp brothel\|red lamp brothel]] in [[blades wiki/silkshore\|silkshore]], bonded over shared masochism
+- met [[blades wiki/roslyn\|roslyn]] at the [[blades wiki/red lamp brothel\|red lamp brothel]] in [[blades wiki/silkshore\|silkshore]], bonded over shared masochism
 - met [[blades wiki/petra\|petra]] at school
 - attempts to communicate with ghosts (and enters ghost field) by making ridiculous gestures or making fake ghost sounds. this is how he became haunted
 - good dancer, unlike [[blades wiki/lord scurlock\|spurlock]]

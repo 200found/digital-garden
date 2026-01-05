@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/flint/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/flint/","tags":["npc"],"dgShowLocalGraph":true}
 ---
 
 - spirit trafficker

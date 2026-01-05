@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/doctor-spaceman/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/doctor-spaceman/","tags":["npc"],"dgShowLocalGraph":true}
 ---
 
 - gang doctor

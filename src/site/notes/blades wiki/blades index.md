@@ -3,40 +3,41 @@
 ---
 
 ## characters
-- [[blades wiki/satin\|satin]]
-- [[blades wiki/jinx\|jinx]]
-- [[blades wiki/brax\|brax]]
-- [[blades wiki/bones\|bones]]
 - [[blades wiki/bae\|bae]]
 - [[blades wiki/bex\|bex]]
+- [[blades wiki/bones\|bones]]
+- [[blades wiki/brax\|brax]]
+- [[blades wiki/jinx\|jinx]]
+- [[blades wiki/pinch\|pinch]]
 - [[blades wiki/pine\|pine]]
+- [[blades wiki/satin\|satin]]
 
 { .block-language-dataview}
 ## heists
 - 12/22/2025 - [[blades wiki/fuck the hive and them bees\|fuck the hive and them bees]]
 - 1/4/2026 - [[blades wiki/demonic ninja turtle\|demonic ninja turtle]]
 ## regions
-- [[blades wiki/tycheros\|tycheros]]
-- [[blades wiki/silkshore\|silkshore]]
-- [[blades wiki/iruvia\|iruvia]]
-- [[blades wiki/dagger isles\|dagger isles]]
-- [[blades wiki/crow's foot\|crow's foot]]
 - [[blades wiki/barrowcleft\|barrowcleft]]
+- [[blades wiki/crow's foot\|crow's foot]]
+- [[blades wiki/dagger isles\|dagger isles]]
+- [[blades wiki/deathlands\|deathlands]]
 - [[blades wiki/doskvol\|doskvol]]
+- [[blades wiki/iruvia\|iruvia]]
 - [[blades wiki/lightning fence\|lightning fence]]
-- [[blades wiki/the deathlands\|the deathlands]]
+- [[blades wiki/silkshore\|silkshore]]
+- [[blades wiki/tycheros\|tycheros]]
 
 { .block-language-dataview}
 ## places
-- [[blades wiki/the pearl divers\|the pearl divers]]
-- [[blades wiki/spicy horseshoe\|spicy horseshoe]]
-- [[blades wiki/scarby's coffee\|scarby's coffee]]
-- [[blades wiki/red lamp brothel\|red lamp brothel]]
-- [[blades wiki/iruvian consolate\|iruvian consolate]]
 - [[blades wiki/grippe shrine\|grippe shrine]]
+- [[blades wiki/iruvian consolate\|iruvian consolate]]
+- [[blades wiki/red lamp brothel\|red lamp brothel]]
+- [[blades wiki/scarby's coffee\|scarby's coffee]]
+- [[blades wiki/spicy horseshoe\|spicy horseshoe]]
+- [[blades wiki/tangletown\|tangletown]]
 - [[blades wiki/that one bar\|that one bar]]
 - [[blades wiki/the crucible\|the crucible]]
-- [[blades wiki/tangletown\|tangletown]]
+- [[blades wiki/the pearl divers\|the pearl divers]]
 
 { .block-language-dataview}
 ## people and factions
@@ -49,18 +50,20 @@
 - [[blades wiki/wraiths\|wraiths]]
 ### frenemies
 - [[blades wiki/railjacks\|train wankers]]
+### long list of [[blades wiki/all npcs\|all npcs]]
 ### all factions
-- [[blades wiki/wraiths\|wraiths]]
-- [[blades wiki/the lost\|the lost]]
-- [[blades wiki/the hive\|the hive]]
-- [[blades wiki/railjacks\|railjacks]]
-- [[blades wiki/lord scurlock\|lord scurlock]]
-- [[blades wiki/gondoliers\|gondoliers]]
-- [[blades wiki/dire ants\|dire ants]]
 - [[blades wiki/bluecoats\|bluecoats]]
 - [[blades wiki/demon\|demon]]
-- [[blades wiki/the guardian of the gate\|the guardian of the gate]]
 - [[blades wiki/dimmer sisters\|dimmer sisters]]
+- [[blades wiki/dire ants\|dire ants]]
+- [[blades wiki/ghost\|ghost]]
+- [[blades wiki/gondoliers\|gondoliers]]
+- [[blades wiki/lord scurlock\|lord scurlock]]
+- [[blades wiki/railjacks\|railjacks]]
+- [[blades wiki/the guardian of the gate\|the guardian of the gate]]
+- [[blades wiki/the hive\|the hive]]
+- [[blades wiki/the lost\|the lost]]
+- [[blades wiki/wraiths\|wraiths]]
 
 { .block-language-dataview}
 ## other resources

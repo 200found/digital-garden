@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/marlane/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/marlane/","tags":["npc"],"dgShowLocalGraph":true}
 ---
 
 - [[blades wiki/bex\|bex]]'s ex (not good terms)

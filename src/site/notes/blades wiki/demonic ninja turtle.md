@@ -5,12 +5,12 @@
 # overview
 
 - [[blades wiki/fuck the hive and them bees\|the last session]], our "work" garnered the attention of demonic forces, namely, [[blades wiki/raffello\|raffello]]. naturally, they want us to do them a favor.
-- wants us to collect a bunch of potentially valuable shit from their old manor in [[blades wiki/the deathlands\|the deathlands]], which is outside of the [[blades wiki/lightning fence\|lightning fence]].
+- wants us to collect a bunch of potentially valuable shit from their old manor in the [[blades wiki/deathlands\|deathlands]], which is outside of the [[blades wiki/lightning fence\|lightning fence]].
 - the specific location is known to us, and we have the combination to the safe. our payment is anything of value not inside the safe.
 # details
 - in addition to the mission, [[blades wiki/raffello\|raffello]] lent-to-own the [[blades wiki/sugar sandwich\|sugar sandwich ii]]
 - [[blades wiki/pine\|pine]] and [[blades wiki/bae\|bae]] return this session.
-- we had [[blades wiki/gripp\|gripp]] petition the [[blades wiki/the guardian of the gate\|the guardian of the gate]] about the possibility of teleporting between [[blades wiki/grippe shrine\|the shrine we recently helped grippe reopen]] and a potential one in the [[blades wiki/the deathlands\|the deathlands]].
+- we had [[blades wiki/gripp\|gripp]] petition the [[blades wiki/the guardian of the gate\|the guardian of the gate]] about the possibility of teleporting between [[blades wiki/grippe shrine\|the shrine we recently helped grippe reopen]] and a potential one in the [[blades wiki/deathlands\|deathlands]].
 	- [[blades wiki/gripp\|gripp]] teaches pine to use hand to locate other [[blades wiki/the guardian of the gate\|guardian of the gate]] energy.
 	- we have to take [[blades wiki/cobb\|cobb]] with us, even though he is a fuckboy.
 - wanted level back down to 1 due to:
@@ -18,7 +18,7 @@
 	- [[blades wiki/brax\|brax]] and [[blades wiki/jinx\|jinx]] separately intimidated bluecoats because ABAB
 	- bones banked an asset, the [[blades wiki/fence pussy\|fence pussy]].
 - [[blades wiki/adrick\|adrick]] gave us some good info about getting through the [[blades wiki/lightning fence\|lightning fence]], the nature of the fence outposts on the larger towers, and constructed for us [[blades wiki/fence pussy\|a high quality asset]] we can use to temporarily and "more" "safely" breach the lightning fence.
-	- gave us the heads up on the city expansion into [[blades wiki/the deathlands\|the deathlands]].
+	- gave us the heads up on the city expansion into [[blades wiki/deathlands\|deathlands]].
 	- 
 - [[blades wiki/bug\|bug]] piloted us across the river, and we instructed them to meet us regularly at a specific midpoint in the fence to avoid detection and attention.
 - pine starts to develop a mysterious knack for finding [[blades wiki/the guardian of the gate\|energy]] with his handussy.

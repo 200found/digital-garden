@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/frost/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/frost/","tags":["npc"],"dgShowLocalGraph":true}
 ---
 
-- fuckboy ghost friend of [[blades wiki/flint\|flint]]
+- fuckboy [[blades wiki/ghost\|ghost]] friend of [[blades wiki/flint\|flint]]
 - 

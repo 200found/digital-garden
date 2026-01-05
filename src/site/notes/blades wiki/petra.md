@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/petra/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/petra/","tags":["npc"],"dgShowLocalGraph":true}
 ---
 
 - city clerk

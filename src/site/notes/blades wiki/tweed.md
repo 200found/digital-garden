@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/tweed/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/tweed/","tags":["npc"],"dgShowLocalGraph":true}
 ---
 
 - imaginary fallguy

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/shae/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/shae/","tags":["npc"],"dgShowLocalGraph":true}
 ---
 
 - fence

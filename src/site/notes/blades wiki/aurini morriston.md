@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/aurini-morriston/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/aurini-morriston/","tags":["npc"],"dgShowLocalGraph":true}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/grace/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/grace/","tags":["npc"],"dgShowLocalGraph":true}
 ---
 
 - she/her

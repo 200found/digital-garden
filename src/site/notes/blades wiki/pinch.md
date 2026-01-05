@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/blades-wiki/pinch/","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/blades-wiki/pinch/","tags":["character"],"dgShowLocalGraph":true}
 ---
 
 - [[blades wiki/pine\|pine's]] father.
-- [[flake\|flake's]] ex-husband.
-- thought to be in prison or dead, but really, living in the dagger isles. reason unknown.
+- [[blades wiki/frake\|frake]]'s ex-husband.
+- thought to be in prison or dead, but really, living in the [[blades wiki/dagger isles\|dagger isles]]. reason unknown.
 - 
