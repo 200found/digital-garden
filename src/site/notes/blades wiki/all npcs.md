@@ -4,6 +4,7 @@
 
 # master list of all npcs
 - [[blades wiki/adrick\|adrick]]
+- [[blades wiki/august\|august]]
 - [[blades wiki/aurini morriston\|aurini morriston]]
 - [[blades wiki/avrick\|avrick]]
 - [[blades wiki/bowie\|bowie]]
@@ -16,7 +17,6 @@
 - [[blades wiki/frake\|frake]]
 - [[blades wiki/frog\|frog]]
 - [[blades wiki/frost\|frost]]
-- [[blades wiki/goats\|goats]]
 - [[blades wiki/grace\|grace]]
 - [[blades wiki/gripp\|gripp]]
 - [[blades wiki/karth\|karth]]

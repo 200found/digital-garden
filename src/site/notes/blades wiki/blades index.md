@@ -14,6 +14,8 @@
 
 { .block-language-dataview}
 ## heists
+- [[blades wiki/some teahouse\|some teahouse]]
+- [[blades wiki/stupid golden party\|stupid golden party]]
 - 12/22/2025 - [[blades wiki/fuck the hive and them bees\|fuck the hive and them bees]]
 - 1/4/2026 - [[blades wiki/demonic ninja turtle\|demonic ninja turtle]]
 ## regions
@@ -29,6 +31,7 @@
 
 { .block-language-dataview}
 ## places
+- [[blades wiki/furniture storage warehouse\|furniture storage warehouse]]
 - [[blades wiki/grippe shrine\|grippe shrine]]
 - [[blades wiki/iruvian consolate\|iruvian consolate]]
 - [[blades wiki/red lamp brothel\|red lamp brothel]]
@@ -48,10 +51,13 @@
 - 
 ### enemies
 - [[blades wiki/wraiths\|wraiths]]
+- [[blades wiki/the hive\|the hive]]
 ### frenemies
 - [[blades wiki/railjacks\|train wankers]]
+- [[blades wiki/billhooks\|billhooks]]
 ### long list of [[blades wiki/all npcs\|all npcs]]
 ### all factions
+- [[blades wiki/billhooks\|billhooks]]
 - [[blades wiki/bluecoats\|bluecoats]]
 - [[blades wiki/demon\|demon]]
 - [[blades wiki/dimmer sisters\|dimmer sisters]]
@@ -60,6 +66,7 @@
 - [[blades wiki/gondoliers\|gondoliers]]
 - [[blades wiki/lord scurlock\|lord scurlock]]
 - [[blades wiki/railjacks\|railjacks]]
+- [[blades wiki/skovlander\|skovlander]]
 - [[blades wiki/the guardian of the gate\|the guardian of the gate]]
 - [[blades wiki/the hive\|the hive]]
 - [[blades wiki/the lost\|the lost]]
