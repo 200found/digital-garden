@@ -67,6 +67,7 @@
 - [[blades wiki/lord scurlock\|lord scurlock]]
 - [[blades wiki/railjacks\|railjacks]]
 - [[blades wiki/skovlander\|skovlander]]
+- [[blades wiki/spirit wardens\|spirit wardens]]
 - [[blades wiki/the guardian of the gate\|the guardian of the gate]]
 - [[blades wiki/the hive\|the hive]]
 - [[blades wiki/the lost\|the lost]]

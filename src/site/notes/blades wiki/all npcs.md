@@ -22,6 +22,7 @@
 - [[blades wiki/karth\|karth]]
 - [[blades wiki/klyra\|klyra]]
 - [[blades wiki/larose\|larose]]
+- [[blades wiki/lenny graves\|lenny graves]]
 - [[blades wiki/lord scurlock\|lord scurlock]]
 - [[blades wiki/marlane\|marlane]]
 - [[blades wiki/mrs. dalmore\|mrs. dalmore]]
