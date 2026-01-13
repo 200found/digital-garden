@@ -15,6 +15,7 @@
 { .block-language-dataview}
 ## heists
 - [[blades wiki/some teahouse\|some teahouse]]
+- [[blades wiki/pine's hole\|pine's hole]]
 - [[blades wiki/stupid golden party\|stupid golden party]]
 - 12/22/2025 - [[blades wiki/fuck the hive and them bees\|fuck the hive and them bees]]
 - 1/4/2026 - [[blades wiki/demonic ninja turtle\|demonic ninja turtle]]
