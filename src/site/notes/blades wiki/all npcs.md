@@ -18,7 +18,7 @@
 - [[blades wiki/frog\|frog]]
 - [[blades wiki/frost\|frost]]
 - [[blades wiki/grace\|grace]]
-- [[blades wiki/gripp\|gripp]]
+- [[blades wiki/grip\|grip]]
 - [[blades wiki/karth\|karth]]
 - [[blades wiki/klyra\|klyra]]
 - [[blades wiki/larose\|larose]]

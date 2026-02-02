@@ -28,7 +28,7 @@
 
 - acolyte of [[blades wiki/the guardian of the gate\|the guardian of the gate]]
 	- has a small burn on his hand from [[blades wiki/the guardian of the gate\|the guardian of the gate]]. bex calls it a "handussy"
-	- 2/6 clock for acolyte
+	- 3/6 clock for acolyte
 	- every time he uses his hole, adds tick to clock to subconsiously become indoctrination
 	- make it funny, pretend it was always the case lol
 	- devils bargain for finding guardian energy
@@ -43,7 +43,7 @@
 
 # goals
 - see projects
-reconcile with mother over father; maybe go on trip to find him
+reconcile with mother over father
 
 
 # projects
@@ -73,7 +73,8 @@ shadow and expertise would be nice
 hole in hand
 control over it, depending on who sees it
 maybe give offerings to shrine
-understand project 1/8
+understand handussy project 2/8
+acolyte project clock: 3/6
 magical as fuck
 control project
 
@@ -82,7 +83,9 @@ come to ritual in 5 days
 will help support the gate shrine restoration effort
 
 
-[[blades wiki/gripp\|gripp]] (contact at the cult)
+[[blades wiki/grip\|grip]] (contact at the cult)
 [[blades wiki/mrs. dalmore\|mrs. dalmore]] (contact for the gated community); makes good mushroom cookies
 
+2/1/26: spend time with gripp to learn about handussy
+floating heal bonus (cocaine vaporizer)
 

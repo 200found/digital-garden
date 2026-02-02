@@ -19,6 +19,7 @@
 - [[blades wiki/stupid golden party\|stupid golden party]]
 - 12/22/2025 - [[blades wiki/fuck the hive and them bees\|fuck the hive and them bees]]
 - 1/4/2026 - [[blades wiki/demonic ninja turtle\|demonic ninja turtle]]
+- 2/1/2026 - [[blades wiki/i do believe in ghosts! i do believe in ghosts!\|i do believe in ghosts! i do believe in ghosts!]]
 ## regions
 - [[blades wiki/barrowcleft\|barrowcleft]]
 - [[blades wiki/crow's foot\|crow's foot]]
@@ -33,7 +34,7 @@
 { .block-language-dataview}
 ## places
 - [[blades wiki/furniture storage warehouse\|furniture storage warehouse]]
-- [[blades wiki/grippe shrine\|grippe shrine]]
+- [[blades wiki/grip shrine\|grip shrine]]
 - [[blades wiki/iruvian consolate\|iruvian consolate]]
 - [[blades wiki/red lamp brothel\|red lamp brothel]]
 - [[blades wiki/scarby's coffee\|scarby's coffee]]
@@ -60,6 +61,8 @@
 ### all factions
 - [[blades wiki/billhooks\|billhooks]]
 - [[blades wiki/bluecoats\|bluecoats]]
+- [[blades wiki/circle of flame\|circle of flame]]
+- [[blades wiki/deathland scavengers\|deathland scavengers]]
 - [[blades wiki/demon\|demon]]
 - [[blades wiki/dimmer sisters\|dimmer sisters]]
 - [[blades wiki/dire ants\|dire ants]]

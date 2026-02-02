@@ -3,16 +3,18 @@
 ---
 
 # overview
-
 - [[blades wiki/fuck the hive and them bees\|the last session]], our "work" garnered the attention of demonic forces, namely, [[blades wiki/raffello\|raffello]]. naturally, they want us to do them a favor.
 - wants us to collect a bunch of potentially valuable shit from their old manor in the [[blades wiki/deathlands\|deathlands]], which is outside of the [[blades wiki/lightning fence\|lightning fence]].
 - the specific location is known to us, and we have the combination to the safe. our payment is anything of value not inside the safe.
+- established a route back
 # details
 - in addition to the mission, [[blades wiki/raffello\|raffello]] lent-to-own the [[blades wiki/sugar sandwich\|sugar sandwich ii]]
 - [[blades wiki/pine\|pine]] and [[blades wiki/bae\|bae]] return this session.
-- we had [[blades wiki/gripp\|gripp]] petition the [[blades wiki/the guardian of the gate\|the guardian of the gate]] about the possibility of teleporting between [[blades wiki/grippe shrine\|the shrine we recently helped grippe reopen]] and a potential one in the [[blades wiki/deathlands\|deathlands]].
-	- [[blades wiki/gripp\|gripp]] teaches pine to use hand to locate other [[blades wiki/the guardian of the gate\|guardian of the gate]] energy.
+- faced a dire badger.
+- we had [[blades wiki/grip\|grip]] petition the [[blades wiki/the guardian of the gate\|the guardian of the gate]] about the possibility of teleporting between [[blades wiki/grip shrine\|the shrine we recently helped grippe reopen]] and a potential one in the [[blades wiki/deathlands\|deathlands]].
+	- [[blades wiki/grip\|grip]] teaches pine to use hand to locate other [[blades wiki/the guardian of the gate\|guardian of the gate]] energy.
 	- we have to take [[blades wiki/cobb\|cobb]] with us, even though he is a fuckboy.
+		- actually, we left him behind.
 - wanted level back down to 1 due to:
 	- [[blades wiki/bex\|bex]] teams up with [[blades wiki/grace\|grace]] to intimidate/extort [[blades wiki/bluecoats\|bluecoats]] whose debts we know (stole during [[blades wiki/ghost house session\|ghost house session]])
 	- [[blades wiki/brax\|brax]] and [[blades wiki/jinx\|jinx]] separately intimidated bluecoats because ABAB
