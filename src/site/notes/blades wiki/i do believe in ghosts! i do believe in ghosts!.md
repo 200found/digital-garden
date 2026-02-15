@@ -19,6 +19,6 @@
 - pine narrowly avoids falling and finds the safe.
 - the papers in the safe turned to dust over time and created a dust cloud that nearly prevented pine from finding the monkey paw.
 - we make it outside, where satin has taken severe facial damage from a ghost attack, shattering her spirit mask.
-- the party, broken and bleeding, barely make it back to [[blades wiki/cobb\|cobb]], who opens the portal home.
+- the party, broken and bleeding, barely make it back to [[blades wiki/kobb\|kobb]], who opens the portal home.
 - cobb apparently had to pay off the [[blades wiki/deathland scavengers\|deathland scavengers]], who happened upon our exit route.
 "there's ghosts in your blood; i recommend you do cocaine about it!" --[[blades wiki/doctor spaceman\|doctor spaceman]]
