@@ -5,3 +5,4 @@
 - with the [[blades wiki/gondoliers\|gondoliers]]
 - crabby
 - likes to smoke
+- drinks cigarette espresso with a bit of cocaine on the foam

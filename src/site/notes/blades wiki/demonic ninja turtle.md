@@ -11,7 +11,7 @@
 - in addition to the mission, [[blades wiki/raffello\|raffello]] lent-to-own the [[blades wiki/sugar sandwich\|sugar sandwich ii]]
 - [[blades wiki/pine\|pine]] and [[blades wiki/bae\|bae]] return this session.
 - faced a dire badger.
-- we had [[blades wiki/grip\|grip]] petition the [[blades wiki/the guardian of the gate\|the guardian of the gate]] about the possibility of teleporting between [[blades wiki/grip shrine\|the shrine we recently helped grippe reopen]] and a potential one in the [[blades wiki/deathlands\|deathlands]].
+- we had [[blades wiki/grip\|grip]] petition the [[blades wiki/the guardian of the gate\|the guardian of the gate]] about the possibility of teleporting between [[blades wiki/gateway shrine\|the shrine we recently helped grippe reopen]] and a potential one in the [[blades wiki/deathlands\|deathlands]].
 	- [[blades wiki/grip\|grip]] teaches pine to use hand to locate other [[blades wiki/the guardian of the gate\|guardian of the gate]] energy.
 	- we have to take [[blades wiki/kobb\|kobb]] with us, even though he is a fuckboy.
 		- actually, we left him behind.

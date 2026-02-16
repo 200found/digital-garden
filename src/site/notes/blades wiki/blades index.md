@@ -20,6 +20,7 @@
 - 12/22/2025 - [[blades wiki/fuck the hive and them bees\|fuck the hive and them bees]]
 - 1/4/2026 - [[blades wiki/demonic ninja turtle\|demonic ninja turtle]]
 - 2/1/2026 - [[blades wiki/i do believe in ghosts! i do believe in ghosts!\|i do believe in ghosts! i do believe in ghosts!]]
+- 2/15/2026 - [[blades wiki/barely started\|barely started]]
 ## regions
 - [[blades wiki/barrowcleft\|barrowcleft]]
 - [[blades wiki/crow's foot\|crow's foot]]
@@ -28,13 +29,16 @@
 - [[blades wiki/doskvol\|doskvol]]
 - [[blades wiki/iruvia\|iruvia]]
 - [[blades wiki/lightning fence\|lightning fence]]
+- [[blades wiki/lost district\|lost district]]
 - [[blades wiki/silkshore\|silkshore]]
+- [[blades wiki/six towers\|six towers]]
 - [[blades wiki/tycheros\|tycheros]]
 
 { .block-language-dataview}
 ## places
 - [[blades wiki/furniture storage warehouse\|furniture storage warehouse]]
-- [[blades wiki/grip shrine\|grip shrine]]
+- [[blades wiki/gatehouse building\|gatehouse building]]
+- [[blades wiki/gateway shrine\|gateway shrine]]
 - [[blades wiki/iruvian consolate\|iruvian consolate]]
 - [[blades wiki/red lamp brothel\|red lamp brothel]]
 - [[blades wiki/scarby's coffee\|scarby's coffee]]
@@ -75,6 +79,8 @@
 - [[blades wiki/the guardian of the gate\|the guardian of the gate]]
 - [[blades wiki/the hive\|the hive]]
 - [[blades wiki/the lost\|the lost]]
+- [[blades wiki/the reconciled\|the reconciled]]
+- [[blades wiki/the unseen\|the unseen]]
 - [[blades wiki/wraiths\|wraiths]]
 
 { .block-language-dataview}
