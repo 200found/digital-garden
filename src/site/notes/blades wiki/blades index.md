@@ -21,7 +21,8 @@
 - 1/4/2026 - [[blades wiki/demonic ninja turtle\|demonic ninja turtle]]
 - 2/1/2026 - [[blades wiki/i do believe in ghosts! i do believe in ghosts!\|i do believe in ghosts! i do believe in ghosts!]]
 - 2/15/2026 - [[blades wiki/smugglish rubbish\|smugglish rubbish]]
-- ??? - [[smugs in harmony\|smugs in harmony]]
+- 3/15/2026 - [[blades wiki/smugs in harmony\|smugs in harmony]]
+- ??? - first of the month
 ## regions
 - [[blades wiki/barrowcleft\|barrowcleft]]
 - [[blades wiki/crow's foot\|crow's foot]]

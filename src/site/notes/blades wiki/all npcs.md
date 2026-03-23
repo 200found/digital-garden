@@ -21,6 +21,7 @@
 - [[blades wiki/grace\|grace]]
 - [[blades wiki/griggs\|griggs]]
 - [[blades wiki/grip\|grip]]
+- [[blades wiki/jul\|jul]]
 - [[blades wiki/karth\|karth]]
 - [[blades wiki/klyra\|klyra]]
 - [[blades wiki/kobb\|kobb]]
@@ -31,6 +32,7 @@
 - [[blades wiki/mrs. dalmore\|mrs. dalmore]]
 - [[blades wiki/myst\|myst]]
 - [[blades wiki/noggs\|noggs]]
+- [[blades wiki/ojak\|ojak]]
 - [[blades wiki/petra\|petra]]
 - [[blades wiki/quellyn\|quellyn]]
 - [[blades wiki/raffello\|raffello]]
@@ -40,6 +42,7 @@
 - [[blades wiki/snap\|snap]]
 - [[blades wiki/telda\|telda]]
 - [[blades wiki/tweed\|tweed]]
+- [[blades wiki/ulf ironborn\|ulf ironborn]]
 - [[blades wiki/whip\|whip]]
 
 { .block-language-dataview}
