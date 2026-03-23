@@ -7,8 +7,7 @@ this heist is a continuation of [[blades wiki/smugglish rubbish\|smugglish rubbi
 
 break into the smuggling industry
 key sacrifices for the key god
-f
-w
+
 
 # details
 
