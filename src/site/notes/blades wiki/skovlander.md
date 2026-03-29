@@ -4,3 +4,6 @@
 
 a migrant faction we unintentionally ended up fucking with a lot
 they are migrants because of the final, most recent chunk of imperialism from the government of [[blades wiki/doskvol\|doskvol]].
+# members:
+- [[blades wiki/ulf ironborn\|ulf ironborn]]
+- 
